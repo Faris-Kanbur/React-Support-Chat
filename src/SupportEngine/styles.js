@@ -59,7 +59,7 @@ export const styles = {
     width: "100%",
     height: "308px",
     backgroundColor: "#7a39e0",
-    transform: "skewY(-12deg)",
+    transform: "skewY(-19deg)",
   },
   topText: {
     position: "relative",
